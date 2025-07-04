@@ -1,5 +1,5 @@
 # create venv
-python3 -m venv venv
+python -m venv venv
 
 # activate venv 
 # mac os
